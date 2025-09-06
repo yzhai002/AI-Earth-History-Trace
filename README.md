@@ -29,7 +29,7 @@
 <p>
   2. 克隆仓库<br>
   在你要存放项目的目录执行：<br>
-  git clone https://github.com/gonnavis/AI-Earth-History-Trace.git<br>
+  git clone https://github.com/yzhai002/AI-Earth-History-Trace.git<br>
 </p>
 
 <p>

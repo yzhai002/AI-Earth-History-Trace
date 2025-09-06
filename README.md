@@ -63,7 +63,7 @@
 
 <p>
   1) 构建 3D 版（Vue 主项目）<br>
-  在 Timeline 仓库根目录执行：<br>
+  在 AI Earth History Trace 仓库根目录执行：<br>
   # 安装依赖<br>
   npm install<br><br>
   

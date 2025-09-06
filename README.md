@@ -9,6 +9,39 @@
 <img src="https://raw.githubusercontent.com/gonnavis/Timeline/master/other/screenshoot_twha.jpg">
 
 <h3>本地开发预览（Vue2 + Three.js 3D）</h3>
+
+
+<h3>Git安装与项目克隆</h3>
+<p>
+  1. 确认 Git 是否安装<br><br>
+  
+  Ubuntu/Debian 系统<br>
+  git --version<br>
+  # 如果没有<br>
+  sudo apt update && sudo apt install -y git<br><br>
+  
+  CentOS/RHEL<br>
+  sudo yum install -y git<br><br>
+  
+  Windows Server<br>
+  打开 PowerShell：<br>
+  git --version<br><br>
+  
+</p>
+
+<p>
+  2. 克隆仓库<br>
+  在你要存放项目的目录执行：<br>
+  git clone https://github.com/gonnavis/AI-Earth-History-Trace.git<br>
+</p>
+
+<p>
+  3. 进入项目目录<br>
+  cd AI-Earth-History-Trace<br>
+</p>
+
+
+
 <p>
   0) 系统准备（一次性）<br>
   # 刷新软件索引<br>

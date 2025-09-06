@@ -3,10 +3,7 @@
 <h3>简介</h3>
 <p>AI Earth History Trace - 一个基于AI技术的历史时间线可视化项目，直观地显示各个历史时间段及历史地图。</p>
 
-<!-- <img src="http://gonnavis.com/timeline/preview2.png"> -->
-<img src="https://raw.githubusercontent.com/gonnavis/Timeline/master/other/screenshoot.png">
-<img src="https://raw.githubusercontent.com/gonnavis/Timeline/master/other/screenshoot_2.jpg">
-<img src="https://raw.githubusercontent.com/gonnavis/Timeline/master/other/screenshoot_twha.jpg">
+
 
 <h3>本地开发预览（Vue2 + Three.js 3D）</h3>
 

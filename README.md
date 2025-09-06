@@ -1,9 +1,5 @@
 <h1>AI Earth History Trace</h1>
 
-<a href="http://gonnavis.com/timeline/" target="_blank">在线演示 (时间线及三维地图) Demo 3D</a>
-<br/>
-<a href="http://gonnavis.com/timeline/twha/" target="_blank">在线演示twha版 (平面地图) Demo 2D</a>
-
 <h3>简介</h3>
 <p>AI Earth History Trace - 一个基于AI技术的历史时间线可视化项目，直观地显示各个历史时间段及历史地图。</p>
 
